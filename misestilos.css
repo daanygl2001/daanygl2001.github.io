@@ -5,4 +5,4 @@ body {background-color: lemonchiffon; color: rgb(66, 64, 45);text-align: center;
 #autor {  font-style: italic;  margin-bottom: 30px ;font-family: 'Marko One', serif;
     font-family: 'BioRhyme Expanded', serif;}
     .cancion {margin:auto; padding: 20px 0 ; text-align: left ; width: 400px;}
-    .cancion h2 + p :first-letter{ float:left; font-size: 38px; line-height: 1; margin : 2px 5px 0 0 }
+    .cancion h2 + p:first-letter{ float:left; font-size: 38px; line-height: 1; margin : 2px 5px 0 0 }
