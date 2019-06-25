@@ -7,7 +7,7 @@ body {background-color: lemonchiffon; color: rgb(66, 64, 45);text-align: center;
     .cancion {margin:auto; padding: 20px 0 ; text-align: left ; width: 400px;}
   #parrafo1:first-letter{ float:left; font-size: 38px; line-height: 1; margin : 2px 5px 0 0 }
   p:nth-child(2){ background: midnightblue ;}
-  p:nth-child(4){ background : plum; font: 20px; font-family: 'Gloria Hallelujah', cursive; font-size: 40px; line-height: 4; margin: 4px 6 px 0 0;
+  p:nth-child(4){ background : plum; font: 20px; font-family: 'Gloria Hallelujah', cursive; font-size: 40px; line-height: 4; margin: 4px 6 px 0 0;}
  :not(p:nth-child(3)){
    margin : 0px;
  }
