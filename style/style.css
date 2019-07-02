@@ -49,3 +49,19 @@ background: #cccccc;
     padding: 20px;
     border-top: 2px solid #db7fdb;
 }
+article {
+    background: #FFFBCC;
+    border: 1PX steelblue;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+article footer{
+    text-align: right;
+}
+time{
+    color: gold;
+}
+figcaption {
+    font: italic 14px verdana, sans-serif;
+    
+}
