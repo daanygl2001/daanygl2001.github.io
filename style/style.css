@@ -68,3 +68,13 @@ img{
     width: 450px;
     height: 450px;
 }
+div {
+    width: 100%;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #000000;
+    
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
