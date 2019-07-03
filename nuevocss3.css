@@ -17,7 +17,7 @@ body{
     box-shadow: rgb(13, 226, 226) 5px 5px 10px inset;
     background: -webkit-linear-gradient(top, #FFFFFF, #006699);
     background: -moz-linear-gradient(top, #FFFFFF, #006699);
-
+    background: radial-gradient(center, circle, #FFFFFF 0%, #006699 200%);
 }
 #titulo{
     font: bold 36px verdana, sans-serif;
