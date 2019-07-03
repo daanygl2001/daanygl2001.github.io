@@ -7,7 +7,7 @@ body{
     margin: 50px auto;
     padding: 15px;
     text-align: center;
-    border: 1px solid #999999;
+    /*border: 1px solid #999999;*/
     background: #DDDDDD;
     -moz-border-radius: 20px  / 10px;
     -webkit-border-radius: 20px / 10px;
@@ -15,15 +15,15 @@ body{
     -moz-box-shadow: rgb(13,226,226) 5px 5px 10px inset;
     -webkit-box-shadow: rgb(13, 226, 226) 5px 5px 10px inset;
     box-shadow: rgb(13, 226, 226) 5px 5px 10px inset;
-    /*background: -webkit-linear-gradient(top, #FFFFFF, #006699);
-    background: -moz-linear-gradient(top, #FFFFFF, #006699);*/
+    background: -webkit-linear-gradient(top, #FFFFFF, #006699);
+    background: -moz-linear-gradient(top, #FFFFFF, #006699);
     background: radial-gradient(center, circle, #FFFFFF 0%, #006699 200%);
     outline: 2px dashed #000099;
     outline-offset: 15px;
     border: 29px;
     -moz-border-image: url("images/diamantes.png") 29 stretch;
     -webkit-border-image: url("images/diamantes.png") 29 stretch;
-    border-image: url("images/diamantes.png") 29 stretch;
+    border-image: url("images/diamantes.png") 29 stretch !important;
 }
 #titulo{
     font: bold 36px verdana, sans-serif;
